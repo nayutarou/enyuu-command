@@ -10,6 +10,5 @@
 5. 2名のBMIをコメントが表示されます
 
 BMI計算方法はこちらのサイトを参考にしました↓
-
 [BMI計算サイト](https://keisan.casio.jp/exec/system/1161228732)
 
